@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function timeToRead() {
   var count = document.getElementById('time-to-read-view').innerHTML.split(' ').length;
   wpm = Math.round(count / 230);
@@ -13,6 +12,3 @@ function showTime() {
 
 timeToRead();
 showTime();
-=======
-
->>>>>>> d1115e0cc5b4ca0b76aee412fa754851c494d4d5
