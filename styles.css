@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+.float {
+    position: fixed;
+    top: 50%;
+    right: 1em;
+    background-color: #ECF0F1;
+    color: #3498DB;
+    padding: 10px;
+    font-family: sans-serif;
+
+=======
+.time-to-read {
+  right: 0;
+  position: fixed;
+  padding: 1%;
+  font-size: 1.2rem;
+  background-color: rgba(255,255,255, .8);
+>>>>>>> d1115e0cc5b4ca0b76aee412fa754851c494d4d5
+}
